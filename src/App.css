@@ -20,7 +20,7 @@ button{
 }
 
 button:active {
-  transform: translateY(4px);
+  transform: translateY(7px);
   box-shadow: 0 1px #217EBA;
 }
 
